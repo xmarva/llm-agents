@@ -3,3 +3,6 @@
 secrets/
 .ipynb_checkpoints/
 .DS_Store
+*.txt
+*.json
+*.jsonl
