@@ -1,8 +1,6 @@
 .env
 *.key
 secrets/
+data/
 .ipynb_checkpoints/
 .DS_Store
-*.txt
-*.json
-*.jsonl
